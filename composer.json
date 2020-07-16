@@ -19,6 +19,6 @@
         "psr-0": {
             "composer_test_poonam\\HelloWorld\\": "src/"
         }
-    }
+    },
     "minimum-stability": "stable"
 }
