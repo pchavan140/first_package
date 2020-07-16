@@ -1,0 +1,24 @@
+{
+    "name": "poonam/first_package",
+    "description": "first composer package",
+    "type": "library",
+    "require": {
+        "ext-json": "^1.4"
+    },
+    "require-dev": {
+        "princeteck/laravel-searchable": "^6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Poonam",
+            "email": "poonamchavan140@gmail.com"
+        }
+    ],
+	"autoload": {
+        "psr-0": {
+            {"composer_test_poonam\\HelloWorld\\": "src/"}
+        }
+    }
+    "minimum-stability": "stable"
+}
