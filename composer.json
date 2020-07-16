@@ -1,5 +1,5 @@
 {
-    "name": "poonam/first_package",
+    "name": "pchavan140/first_package",
     "description": "first composer package",
     "type": "library",
     "require": {
